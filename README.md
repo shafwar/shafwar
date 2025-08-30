@@ -3,13 +3,13 @@
 
 ---
 
-## 🐉 About Me
+## About Me
 
 I’m a passionate developer from Indonesia, currently exploring Web Development and AI Software Engineering. I enjoy building applications that are clean, efficient, and impactful.
 
 ---
 
-🚀 What I’m Up To
+## What I’m Up To
 
 🌐 Crafting full-stack apps with React, Next.js, and Node.js
 
