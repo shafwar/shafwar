@@ -5,24 +5,17 @@
 
 ## 🚀 About Me  
 
-I’m a passionate developer from Indonesia who loves turning ideas into functional, scalable, and impactful applications.  
-My main focus is **Web Development** and **AI Software Engineering**, but I also enjoy exploring the world of **Cybersecurity**.  
-
-- 💻 Frontend enthusiast — crafting clean, responsive, and user-friendly interfaces.  
-- ⚡ Backend builder — developing efficient APIs and reliable system integrations.  
-- 🔐 Security curious — always learning about secure coding & penetration testing.  
-- 📊 Data-driven — experimenting with **Machine Learning mini-projects**.  
-
-I believe in **writing clean code, continuous learning, and building tech that matters**.  
-
+Hi, I’m Shafi — a developer from Indonesia who loves building things for the web.  
+I enjoy working on **frontend stuff**, exploring **backend & APIs**, and learning more about **security & AI**.  
+ 
 ---
 
 ## 💡 What I’m Working On  
 
-🌐 Building full-stack web apps with **React, Next.js, Node.js**  
-📊 Exploring **Data Science & ML** through mini projects  
-🛠️ Deploying apps with **Railway, Vercel, Docker**  
-⚙️ Continuously sharpening skills in **system design & cybersecurity**  
+- Building full-stack apps with **React, Next.js, Node.js**  
+- Learning more about **Machine Learning & Data Science**  
+- Deploying projects with **Railway, Vercel, Docker**  
+- Exploring **cybersecurity & system design**  
 
 ---
 
