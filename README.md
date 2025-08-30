@@ -5,9 +5,16 @@
 
 ## 🚀 About Me  
 
-Hi, I’m Shafi — a developer from Indonesia who loves building things for the web.  
-I enjoy working on **frontend stuff**, exploring **backend & APIs**, and learning more about **security & AI**.  
- 
+I’m Shafi — a passionate developer from Indonesia.  
+My main focus is **Software Engineering**, with strong skills in **Frontend Development**, and growing expertise in:  
+
+- **AI & Machine Learning**  
+- **Cybersecurity**  
+- **Cloud Computing & DevOps**  
+- **Data Engineering & Analytics**  
+
+I love building impactful applications and continuously learning technologies that shape the future of IT.
+
 ---
 
 ## 💡 What I’m Working On  
