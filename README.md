@@ -60,11 +60,3 @@ I love building impactful applications and continuously learning technologies th
 </p>
 
 ---
-
-## 🌐 Connect with Me  
-
-<p align="center">
-  <a href="https://linkedin.com/in/shafwar" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://github.com/shafwar" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="mailto:shafianwar.dev@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
