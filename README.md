@@ -5,7 +5,7 @@
 
 ## 🚀 About Me  
 
-I’m Shafi — a passionate developer from Indonesia.  
+I’m Shafi a passionate developer from Indonesia.  
 My main focus is **Software Engineering**, with strong skills in **Frontend Development**, and growing expertise in:  
 
 - **AI & Machine Learning**  
