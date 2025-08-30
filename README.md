@@ -28,19 +28,45 @@ Check out my [coding portfolio](https://github.com/shafwar?tab=repositories)!
 
 ---
 
-## 💻 Tech Stack  
+## 🛠️ Tech Stack  
 
-**Languages**  
-- JavaScript, TypeScript, PHP, Python, SQL  
+### 🚀 Languages  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff)  
+![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=fff)  
 
-**Frameworks & Libraries**  
-- React, Next.js, Laravel, Node.js, TailwindCSS  
+### 🖼️ Frontend  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)  
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=fff)  
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=fff)  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff)  
+![Inertia.js](https://img.shields.io/badge/-Inertia.js-9553E9?logo=inertia&logoColor=fff)  
 
-**Developer Tools**  
-- Git, Postman, Docker  
+### ⚙️ Backend & API  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)  
+![Express](https://img.shields.io/badge/-Express-000?logo=express&logoColor=fff)  
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=fff)  
+![Next.js API](https://img.shields.io/badge/-Next.js%20API-000?logo=next.js&logoColor=fff)  
+![REST API](https://img.shields.io/badge/-REST%20API-005571?logo=api&logoColor=fff)  
 
-**Cloud & Platforms**  
-- Railway, Vercel, Microsoft Azure  
+### 🗄️ Database & Cloud  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)  
+![Railway](https://img.shields.io/badge/-Railway-0B0D0E?logo=railway&logoColor=fff)  
+![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=fff)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)  
+
+### 📊 Data, AI & Tools  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=fff)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=fff)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=fff)  
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?logo=scikitlearn&logoColor=fff)  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)  
 
 ---
 
