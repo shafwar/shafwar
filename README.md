@@ -1,21 +1,28 @@
-<h1 align="center">Hi 👋 I'm Shafi Anwar</h1>
+<h1 align="center">Hi 👋, I'm Shafi Anwar</h1>
 <h3 align="center">Software Engineer • Front-End Specialist • Security Enthusiast</h3>
 
 ---
 
-## About Me
+## 🚀 About Me  
 
-I’m a passionate developer from Indonesia, currently exploring Web Development and AI Software Engineering. I enjoy building applications that are clean, efficient, and impactful.
+I’m a passionate developer from Indonesia who loves turning ideas into functional, scalable, and impactful applications.  
+My main focus is **Web Development** and **AI Software Engineering**, but I also enjoy exploring the world of **Cybersecurity**.  
+
+- 💻 Frontend enthusiast — crafting clean, responsive, and user-friendly interfaces.  
+- ⚡ Backend builder — developing efficient APIs and reliable system integrations.  
+- 🔐 Security curious — always learning about secure coding & penetration testing.  
+- 📊 Data-driven — experimenting with **Machine Learning mini-projects**.  
+
+I believe in **writing clean code, continuous learning, and building tech that matters**.  
 
 ---
 
-## What I’m Up To
+## 💡 What I’m Working On  
 
-🌐 Crafting full-stack apps with React, Next.js, and Node.js
-
-📊 Exploring Data Science & Machine Learning mini-projects
-
-🛠️ Deploying apps with Railway, Vercel, and Docker
+🌐 Building full-stack web apps with **React, Next.js, Node.js**  
+📊 Exploring **Data Science & ML** through mini projects  
+🛠️ Deploying apps with **Railway, Vercel, Docker**  
+⚙️ Continuously sharpening skills in **system design & cybersecurity**  
 
 ---
 
