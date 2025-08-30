@@ -1,4 +1,4 @@
-                                                          # Hi 👋 I'm Shafi Anwar  
+# Hi 👋 I'm Shafi Anwar  
 
 ## 📝 About Me  
 I’m a **Software Engineer** and **Front-End Specialist** from Jakarta, with a strong focus on building secure, scalable, and user-friendly web applications.  
