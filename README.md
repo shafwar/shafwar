@@ -82,9 +82,3 @@ Check out my [coding portfolio](https://github.com/shafwar?tab=repositories)!
 
 ## 🏆 GitHub Achievements  
 ![trophy](https://github-profile-trophy.vercel.app/?username=shafwar&theme=tokyonight&margin-w=15&margin-h=15&no-bg=true)  
-
----
-
-## 📈 GitHub Stats  
-![Shafwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shafwar&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafwar&layout=compact&theme=tokyonight)  
