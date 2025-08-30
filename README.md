@@ -1,4 +1,4 @@
-# Hi 👋 I'm Shafi Anwar  
+                                                          # Hi 👋 I'm Shafi Anwar  
 
 ## 📝 About Me  
 I’m a **Software Engineer** and **Front-End Specialist** from Jakarta, with a strong focus on building secure, scalable, and user-friendly web applications.  
@@ -9,9 +9,7 @@ Passionate about crafting clean interfaces, integrating robust backends, and ens
 ## 🚀 What I'm Up To  
 - 🌐 Developing modern web applications using **React**, **Next.js**, and **Laravel**  
 - 🔐 Exploring **Cybersecurity practices** to build more resilient applications  
-- 📊 Working on **interactive dashboards & data visualization** for better insights  
-
-Check out my [coding portfolio](https://github.com/shafwar?tab=repositories)!  
+- 📊 Working on **interactive dashboards & data visualization** for better insights   
 
 ---
 
