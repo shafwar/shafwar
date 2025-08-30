@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shafi Anwar</h1>
+<h1 align="center">Hi 👋 I'm Shafi Anwar</h1>
 <h3 align="center">Software Engineer • Front-End Specialist • Security Enthusiast</h3>
 
 ---
