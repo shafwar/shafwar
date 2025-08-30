@@ -15,13 +15,6 @@ Check out my [coding portfolio](https://github.com/shafwar?tab=repositories)!
 
 ---
 
-## 📂 Featured Projects  
-- 🔒 [Sophos](https://github.com/shafwar/Sophos) – Cybersecurity-focused platform with real-time monitoring dashboards  
-- 🌍 [Cahayaweb](https://github.com/shafwar/Cahayaweb) – A modern and interactive company profile website  
-- 🏫 [KampusInOne](https://github.com/shafwar/KampusInOne) – Integrated campus management web application  
-
----
-
 ## 🌐 Connect With Me  
 - [LinkedIn](https://www.linkedin.com/in/shafianwar)  
 - [GitHub](https://github.com/shafwar)  
