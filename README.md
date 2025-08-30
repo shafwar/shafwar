@@ -4,15 +4,7 @@
 
 ## 🚀 About Me  
 
-I’m Shafi a passionate developer from Indonesia.  
-My main focus is **Software Engineering**, with strong skills in **Frontend Development**, and growing expertise in:  
-
-- **AI & Machine Learning**  
-- **Cybersecurity**  
-- **Cloud Computing & DevOps**  
-- **Data Engineering & Analytics**  
-
-I love building impactful applications and continuously learning technologies that shape the future of IT.
+I’m Shafi, a passionate developer from Indonesia with a strong focus on Software Engineering and expertise in Frontend Development. I am also expanding my skills in AI & Machine Learning, Cybersecurity, Cloud Computing, and Data Engineering, as I strive to build impactful applications while continuously learning technologies that shape the future of IT.
 
 ---
 
