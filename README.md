@@ -3,12 +3,19 @@
 
 ---
 
-## 🚀 About Me  
-- 🔭 Currently working on **Web Development & Cyber Security Projects**  
-- 🌱 Learning more about **AI Software Engineering & Data Science**  
-- 👯 Open to collaborate on **Full-Stack Projects, AI Models, and Security Tools**  
-- 💬 Ask me about **React, Next.js, Node.js, Express, Laravel, MySQL, TailwindCSS**  
-- ⚡ Fun fact: I love building **real-world apps that scale** 🚀  
+## 🐉 About Me
+
+I’m a passionate developer from Indonesia, currently exploring Web Development and AI Software Engineering. I enjoy building applications that are clean, efficient, and impactful.
+
+---
+
+🚀 What I’m Up To
+
+🌐 Crafting full-stack apps with React, Next.js, and Node.js
+
+📊 Exploring Data Science & Machine Learning mini-projects
+
+🛠️ Deploying apps with Railway, Vercel, and Docker
 
 ---
 
