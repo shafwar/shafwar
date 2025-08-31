@@ -10,7 +10,7 @@ I’m Shafi, a passionate developer from Indonesia with a strong focus on Softwa
 
 ## 🔭 What I’m Working On  
 
-Currently developing full-stack apps with **React, Next.js, Node.js**, exploring **Machine Learning & Data Science**, deploying projects with **Render, Vercel, Docker**, and diving into **Cybersecurity & System Design**.
+Currently developing full-stack apps with **React, Next.js, Node.js**, exploring **Machine Learning & Data Science**, deploying projects with **Railway, Vercel, Docker**, and diving into **Cybersecurity & System Design**.
 
 ---
 
