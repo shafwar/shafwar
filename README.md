@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Shafi Anwar (Shafwar)</h1>
+<h1 align="center">Hi 👋 I'm Shafi Anwar </h1>
 
 # 💫 About Me:
 I am a passionate software developer from Indonesia, focused on building impactful applications and continuously exploring the future of technology. My main expertise is in Software Engineering and Frontend Development, with growing interests in AI & Machine Learning, Cybersecurity, Cloud Computing, and Data Analytics.
