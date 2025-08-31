@@ -33,7 +33,8 @@ Currently developing full-stack apps with **React, Next.js, Node.js**, exploring
 
 ### ☁️ Cloud & Deployment  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=railway,vercel,netlify,heroku,aws,docker" />
+  <img src="https://cdn.simpleicons.org/railway/0B0D0E" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,aws,docker" />
 </p>
 
 ### 🔧 Tools & Others  
