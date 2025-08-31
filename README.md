@@ -2,13 +2,13 @@
 
 ---
 
-## 🚀 About Me  
+##  About Me  
 
 I’m Shafi, a passionate developer from Indonesia with a strong focus on Software Engineering and expertise in Frontend Development. I am also expanding my skills in AI & Machine Learning, Cybersecurity, Cloud Computing, and Data Engineering, as I strive to build impactful applications while continuously learning technologies that shape the future of IT.
 
 ---
 
-## 💡 What I’m Working On  
+##  What I’m Working On  
 
 - Developing full-stack apps with **React, Next.js, Node.js**  
 - Expanding knowledge in **Machine Learning & Data Science**  
