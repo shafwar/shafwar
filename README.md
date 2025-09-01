@@ -43,8 +43,3 @@ Currently developing full-stack apps with **React, Next.js, Node.js**, exploring
 </p>
 
 ---
-
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shafwar&theme=onedark&no-frame=true&row=1&column=7" />
-</p>
