@@ -10,28 +10,19 @@ Currently developing full-stack apps with **React, Next.js, Node.js**, exploring
 
 ---
 
-### 🌐 Frontend  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,vite" />
 </p>
-
-### ⚙️ Backend  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,python,java" />
 </p>
-
-### 🗄️ Database  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase" />
 </p>
-
-### ☁️ Cloud & Deployment  
 <p align="center">
   <img src="https://cdn.simpleicons.org/render/46E3B7" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,aws,docker" />
 </p>
-
-### 🔧 Tools & Others  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,linux,bash" />
 </p>
