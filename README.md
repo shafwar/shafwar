@@ -4,7 +4,7 @@
 
 I’m a passionate developer from Indonesia with a strong focus on Software Engineering and Frontend Development. I’m also expanding into AI & Machine Learning, Cybersecurity, Cloud Computing, and Data Engineering, while continuously building impactful applications with future-driven technologies.  
 
-Beyond coding, I focus on **Problem Solving & System Design** — areas where AI still falls short. Designing architectures, understanding business needs, and making strategic decisions are skills I value highly as they define real-world software engineering impact.  
+I focus not only on coding, but also on **Problem Solving & System Design** — areas where AI still struggles. Understanding business needs, creating solid architectures, and making strategic decisions are skills I constantly sharpen to build impactful solutions.  
 
 Currently developing full-stack apps with **React, Next.js, Node.js**, exploring **Machine Learning & Data Science**, deploying projects with **Railway, Vercel, Docker**, and diving into **Cybersecurity & System Design**.
 
@@ -35,5 +35,3 @@ Currently developing full-stack apps with **React, Next.js, Node.js**, exploring
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,linux,bash" />
 </p>
-
----
