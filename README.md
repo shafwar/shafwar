@@ -4,8 +4,8 @@ A dedicated **Software Engineer & Frontend Developer** from Indonesia who loves 
 I always put **problem-solving first** and believe strong **team communication** is the key to building great products.  
 
 📬 Contact me:  
-- Email: **whitejaquine123@gmail.com**  
 - LinkedIn: [Shafi Anwar](https://www.linkedin.com/in/shafianwar/)  
+- Email: **whitejaquine123@gmail.com**  
 
 ---
 
