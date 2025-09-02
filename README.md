@@ -1,9 +1,11 @@
-# Hi, I'm Shafi Anwar 
+# Hi, I'm Shafi Anwar 🚀
 
 A dedicated **Software Engineer & Frontend Developer** from Indonesia who loves turning ideas into impactful applications.  
 I always put **problem-solving first** and believe strong **team communication** is the key to building great products.  
 
-📬 Contact me: **whitejaquine123@gmail.com**
+📬 Contact me:  
+- Email: **whitejaquine123@gmail.com**  
+- LinkedIn: [Shafi Anwar](https://www.linkedin.com/in/shafianwar/)  
 
 ---
 
