@@ -2,11 +2,9 @@
 
 ---
 
-I’m a passionate developer from Indonesia with a strong focus on Software Engineering and Frontend Development. I’m also expanding into AI & Machine Learning, Cybersecurity, Cloud Computing, and Data Engineering, while continuously building impactful applications with future-driven technologies.  
+I’m Shafi, a developer from Indonesia who’s passionate about building software that makes an impact. My main focus is Software Engineering and Frontend Development, but I’m also diving deeper into AI & Machine Learning, Cybersecurity, Cloud Computing, and Data Engineering.  
 
-I focus not only on coding, but also on **Problem Solving & System Design** — areas where AI still struggles. Understanding business needs, creating solid architectures, and making strategic decisions are skills I constantly sharpen to build impactful solutions.  
-
-Currently developing full-stack apps with **React, Next.js, Node.js**, exploring **Machine Learning & Data Science**, deploying projects with **Railway, Vercel, Docker**, and diving into **Cybersecurity & System Design**.
+I enjoy solving problems, designing systems, and learning new technologies that push the future of IT forward. Right now, I’m working on full-stack apps with **React, Next.js, Node.js**, exploring **Machine Learning**, and experimenting with deployments on **Vercel, Docker, and more**.  
 
 ---
 
