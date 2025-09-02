@@ -1,27 +1,19 @@
-<h1 align="center">Hi I'm Shafi Anwar</h1>
+# Hi, I'm Shafi Anwar 🚀
+
+I’m a passionate **Software Engineer & Frontend Developer** from Indonesia, focusing on building scalable, modern, and user-friendly applications.  
+I always prioritize **problem-solving** and believe in strong **team communication** to achieve impactful results.  
+
+📩 Reach me at: **whitejaquine@gmail.com**
 
 ---
 
-💡 Developer from Indonesia, passionate about Software Engineering and Frontend Development — focusing on problem solving, teamwork, and building impactful applications with modern technologies.
-
----
-
-I’m a passionate developer from Indonesia focused on Software Engineering and Frontend Development. I’m expanding my skills in AI, Cybersecurity, Cloud, and Data while building impactful full-stack applications with React, Next.js, and Node.js. I prioritize solving problems effectively and collaborating with teams to deliver technology that shapes the future.
-
----
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,vite" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,python,java" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,aws,docker" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,linux,bash" />
-</p>
+### ⚡ Tech Stack
+![React](https://img.shields.io/badge/React-Advanced-blue)
+![Next.js](https://img.shields.io/badge/Next.js-Advanced-black)
+![Node.js](https://img.shields.io/badge/Node.js-Intermediate-green)
+![Express](https://img.shields.io/badge/Express-Intermediate-lightgrey)
+![PHP](https://img.shields.io/badge/PHP-Intermediate-purple)
+![Laravel](https://img.shields.io/badge/Laravel-Intermediate-red)
+![MySQL](https://img.shields.io/badge/MySQL-Intermediate-orange)
+![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-brightgreen)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Advanced-06B6D4)
