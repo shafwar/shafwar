@@ -2,7 +2,11 @@
 
 ---
 
-I’m Shafi, a passionate developer from Indonesia focused on Software Engineering and Frontend Development. I’m expanding my skills in AI, Cybersecurity, Cloud, and Data while building impactful full-stack applications with React, Next.js, and Node.js. Always driven to solve problems and create technology that shapes the future.
+💡 Developer from Indonesia, passionate about Software Engineering and Frontend Development — focusing on problem solving, teamwork, and building impactful applications with modern technologies.
+
+---
+
+I’m a passionate developer from Indonesia focused on Software Engineering and Frontend Development. I’m expanding my skills in AI, Cybersecurity, Cloud, and Data while building impactful full-stack applications with React, Next.js, and Node.js. I prioritize solving problems effectively and collaborating with teams to deliver technology that shapes the future.
 
 ---
 
