@@ -7,6 +7,7 @@ I always put **problem-solving first** and believe strong **team communication**
 - LinkedIn: [Shafi Anwar](https://www.linkedin.com/in/shafianwar/)  
 - Email: **whitejaquine123@gmail.com**  
 
+
 ![React](https://img.shields.io/badge/React-Advanced-blue)
 ![Next.js](https://img.shields.io/badge/Next.js-Advanced-black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Advanced-06B6D4)
