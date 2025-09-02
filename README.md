@@ -3,7 +3,7 @@
 I’m a passionate **Software Engineer & Frontend Developer** from Indonesia, focusing on building scalable, modern, and user-friendly applications.  
 I always prioritize **problem-solving** and believe in strong **team communication** to achieve impactful results.  
 
-📩 Reach me at: **whitejaquine@gmail.com**
+📩 Reach me at: **whitejaquine123@gmail.com**
 
 ---
 
