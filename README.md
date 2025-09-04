@@ -1,7 +1,7 @@
 # Hi, I'm Shafi Anwar 👋🏻 
 
 A **Software Engineer & Frontend Developer** from Indonesia, passionate about turning ideas into impactful applications.  
-I take pride in being a **problem solver** — not just coding, but also designing, supervising, and shaping solutions that matter.  
+I take pride in being a **problem solver** with not just coding, but also designing, supervising, and shaping solutions that matter.  
 Strong **communication and teamwork** are my foundation to building great products and solving challenges at scale.  
 
 📬 Contact me:  
