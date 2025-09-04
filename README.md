@@ -2,7 +2,7 @@
 
 **Software Engineer & Security-Conscious Engineer** from Indonesia, passionate about turning ideas into impactful applications.  
 **Driven and strategic problem solver** with not just coding, but also designing, supervising, and shaping solutions that matter.  
-Strong **communication and teamwork** are the foundation for building great products and solving challenges at scale.  
+Also strong **communication and teamwork** are the foundation for building great products and solving challenges at scale.  
 
 📬 Contact me:  
 - LinkedIn: [Shafi Anwar](https://www.linkedin.com/in/shafianwar/)  
