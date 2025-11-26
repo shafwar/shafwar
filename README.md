@@ -6,7 +6,7 @@ Also strong **communication and teamwork** are the foundation for building great
 
 📬 Contact me:  
 - LinkedIn: [Shafi Anwar](https://www.linkedin.com/in/shafianwar/)  
-- Email: **whitejaquine123@gmail.com**  
+
 
 ![React](https://img.shields.io/badge/React-Advanced-blue)
 ![Next.js](https://img.shields.io/badge/Next.js-Advanced-black)
