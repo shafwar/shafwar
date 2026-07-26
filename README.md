@@ -11,7 +11,6 @@ Outside of development, I'm always exploring better ways to design, build, and i
 📬 **Connect with me**
 
 - LinkedIn: https://www.linkedin.com/in/shafianwar/
-- Portfolio: https://heyitshafi.com *(coming soon)*
 
 ---
 
